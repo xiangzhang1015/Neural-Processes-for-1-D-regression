@@ -16,3 +16,6 @@ Before experiment:
 ![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/Before%20experiments.png)
 
 Experimental results:
+![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/results.png)
+
+If you want to use our code, please cite our link: https://github.com/xy1234552/Neural-Processes-for-1-D-regression
