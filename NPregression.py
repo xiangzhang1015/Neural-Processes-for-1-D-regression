@@ -3,7 +3,10 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from utils import *
-
+#
+# This code is provided by Yang Xiao
+# Paper citation: Garnelo M, Schwarz J, Rosenbaum D, et al. Neural processes[J]. arXiv preprint arXiv:1807.01622, 2018.
+#
 # our target data
 X=np.linspace(-10,10,500)
 y=np.sin(X)
