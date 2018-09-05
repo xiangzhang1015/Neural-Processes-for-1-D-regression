@@ -18,4 +18,11 @@ Before experiment:
 Experimental results:
 ![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/results.png)
 
+How to use it: down load two python file and run Npregression.py directly.
+
+
 If you want to use our code, please cite our link: https://github.com/xy1234552/Neural-Processes-for-1-D-regression
+
+You can also visit another repositories written by R lang: https://github.com/kasparmartens/NeuralProcesses
+
+If you have some idea about it, please feel free to contact me (My email: yangtomas7@gmail.com).
