@@ -20,7 +20,7 @@ Experimental results (red):
 
 ![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/results.png)
 
-How to use it: down load two python file and run Npregression.py directly.
+How to use it: down load two python file and run NPregression.py directly.
 
 
 If you want to use our code, please cite our link: https://github.com/xy1234552/Neural-Processes-for-1-D-regression
