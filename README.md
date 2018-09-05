@@ -12,10 +12,12 @@ This code implements the paper "Garnelo M, Schwarz J, Rosenbaum D, et al. Neural
 
 The result is as follows:
 
-Before experiment:
+Before experiment (blue):
+
 ![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/Before%20experiments.png)
 
-Experimental results:
+Experimental results (red):
+
 ![image](https://raw.githubusercontent.com/xy1234552/Neural-Processes-for-1-D-regression/master/Fig/results.png)
 
 How to use it: down load two python file and run Npregression.py directly.
